@@ -1,0 +1,14 @@
+.music-tool-container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 1200px;
+    height: 720px;
+    /*background: url('../img/bg.jpg');*/
+    background-color: rgb(160, 82, 45);
+    background-position: center;
+    border: 5px solid rgb(160, 82, 45);
+}
+.music-tool-precise-positioner {
+    margin-left: 220px;
+}

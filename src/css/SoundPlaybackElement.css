@@ -1,0 +1,15 @@
+.sound-playback-element {
+    display: flex;
+    align-items: center;
+    height: 27px;
+    width: 272px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    border-radius: 12px;
+    /*background: url('img/metal.jpg');*/
+    background-position: center;
+    border: 1px solid rgb(210, 105, 30);
+  }
+  .sound-play-btn {
+    width: 100px;
+  }

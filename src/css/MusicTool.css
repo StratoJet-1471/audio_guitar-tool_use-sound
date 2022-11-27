@@ -1,0 +1,9 @@
+.music-tool {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 5px 10px;
+    /*(background: url('img/tree.jpg');*/
+    background-position: center;
+    border: 5px solid rgb(165, 42, 42);
+  }
